@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img, dl, dt, dd, ol, ul, li, form, table, caption, tr, th, td, article, aside, footer, header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+img {
+    width: 10%;
+    margin-left: 15px;
+}
+
+body {
+    padding: 12px;
+    background: rgb(34,99,124);
+    background: linear-gradient(0deg, rgba(34,99,124,1) 0%, rgba(140,205,235,1) 100%);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer h2 {
+    text-align: left;
+    color: rgb(70, 131, 211);
+}
+
+footer {
+    margin: 0px;
+    padding: 17px;
+    color: silver;
+    background-color: rgb(160, 202, 241);
+    font-weight: bold;
+    position: static;
+}
+
+footer p {
+    color: rgb(70, 131, 211)
+}

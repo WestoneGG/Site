@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img, dl, dt, dd, ol, ul, li, form, table, caption, tr, th, td, article, aside, footer, header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+#link1 {
+    padding-left: 20%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(200 228 196);
+}
+
+#link2 {
+    padding-left: 20%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(200 228 196);
+}
+
+#link3 {
+    padding-left: 20%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(200 228 196);
+}
+
+nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    padding-bottom: 13px;
+    padding-top: 13px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(140, 150, 145);
+    background-color: rgb(160, 202, 241);
+}
+
+header p {
+    color: rgb(70, 131, 211);
+}
+
+footer {
+    margin: 0px;
+    padding: 17px;
+    color: silver;
+    background-color: rgb(160, 202, 241);
+    font-weight: bold;
+    position: static;
+}
+
+main {
+    padding: 12px;
+    background-color: rgb(126, 187, 245);
+}
+
+table {
+    color: rgb(70, 131, 211);
+    border: 3px solid rgb(70, 131, 211);
+    
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+th, td {
+    border: 2px solid rgb(70, 131, 211);
+ }
+
+h1 {
+    text-align: center;
+    color: rgb(52, 103, 197);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(70, 131, 211);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(200 228 196);
+}
+
+.numered-list {
+    margin: 15px;
+    color: rgb(103, 70, 180)
+}
+
+.unnumered-list {
+    margin: 15px;
+    color: rgb(103, 70, 180)
+}
+
+.img {
+    color: rgb(138 140 150);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    margin-left: 25%;
+}
+
+.link-avto {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    margin-left: 236px;
+}
+
+b > p {
+    margin: 0;    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer p {
+    color: rgb(70, 131, 211)
+}
+
+summary {
+    color: rgb(70, 131, 211);
+}
+
+footer h2{
+    text-align: left;
+}
